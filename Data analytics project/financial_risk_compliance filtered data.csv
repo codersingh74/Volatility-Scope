@@ -1,0 +1,12 @@
+Financial_risk_compliance filtered data limit (10),,,,,,,,,,,
+year,firm_name,total_audit_engagements,high_risk_cases,compliance_violations,fraud_cases_detected,industry_affected,total_revenue_impact,ai_used_for_auditing,employee_workload,audit_effectiveness_score,audit_risk_score
+2020,PwC,2829,51,123,39,Healthcare,11424.00%,No,57,5.8,70.2
+2022,Deloitte,3589,185,30,60,Healthcare,15698.00%,Yes,58,5.3,113.5
+2020,PwC,2438,212,124,97,Healthcare,13183.00%,No,76,6.1,162.6
+2021,PwC,2646,397,55,97,Healthcare,22911.00%,No,60,5.1,234.4
+2020,PwC,2680,216,99,46,Healthcare,4800.00%,No,51,9.1,146.9
+2023,Deloitte,818,448,10,30,Finance,43889.00%,No,73,5.3,233
+2022,Deloitte,1199,148,114,11,Retail,46882.00%,No,53,9.6,110.4
+2020,PwC,4092,500,152,69,Tech,5385.00%,Yes,80,9.4,309.4
+2021,PwC,4156,362,53,95,Finance,31879.00%,No,56,6,215.9
+2021,Ernst & Young,2490,74,144,22,Retail,46133.00%,Yes,66,6.8,84.6
