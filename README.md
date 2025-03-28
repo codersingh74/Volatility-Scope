@@ -55,5 +55,9 @@ This project showcases **how data analytics can be applied** in the financial se
 | `filtered_data.csv`         | Filtered SQL dataset (LIMIT 10) |
 
 
-
+## How to Use This Project?  
+1️⃣  Clone the Repository 
+   ```sh
+   git clone https://github.com/codersingh74/Volatility-Scope.git
+   cd Volatility-Scope
  
